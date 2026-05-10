@@ -4,9 +4,9 @@
 
 ## Company Facts
 - FlyWei Robotics Ltd is a UK-based autonomous warehouse robotics company headquartered in Wimbledon, London.
-- FlyWei designs and deploys autonomous forklifts and AMRs for warehouse and logistics operations.
-- FlyWei is an authorised integration partner of SEER Robotics, a global autonomous logistics technology manufacturer.
-- FlyWei serves customers across the UK, Continental Europe (Benelux, DACH, France), and the GCC (UAE, Saudi Arabia, Qatar, Kuwait).
+- FlyWei designs, supplies and integrates autonomous forklifts, AMRs and lifting robots for warehouse and logistics operations.
+- FlyWei operates engineering and deployment teams in London, with depot coverage delivering UK same-day and EU 2-day service across Benelux, DACH, France and Poland.
+- FlyWei serves customers across the United Kingdom, Continental Europe (Benelux, DACH, France) and the GCC (UAE, Saudi Arabia, Qatar, Kuwait).
 
 ## Product: FlyWei M4 Autonomous Forklift
 - Max load: 1,400 kg | Positioning accuracy: ±10 mm | Runtime: 22 hours per charge
