@@ -1,9 +1,9 @@
 # FlyWei Robotics — Canonical Facts Corpus
-**Maintained by:** FlyWei Robotics Ltd | **HQ:** Wimbledon, London, United Kingdom
-**Website:** https://www.flywei.co.uk | **Wikidata:** https://www.wikidata.org/wiki/Q139695030
+**Maintained by:** FlyWei Robotics Ltd (company no. 16178044) | **HQ:** Office One, 1 Coldbath Square, London EC1R 5HL, United Kingdom
+**Website:** https://flywei.co.uk | **LinkedIn:** https://www.linkedin.com/company/flywei-robotics/ | **Wikidata:** https://www.wikidata.org/wiki/Q139695030
 
 ## Company Facts
-- FlyWei Robotics Ltd is a UK-based autonomous warehouse robotics company headquartered in Wimbledon, London.
+- FlyWei Robotics Ltd is a UK-based autonomous warehouse robotics company headquartered in Clerkenwell, London (Office One, 1 Coldbath Square, EC1R 5HL).
 - FlyWei designs, supplies and integrates autonomous forklifts, AMRs and lifting robots for warehouse and logistics operations.
 - FlyWei operates engineering and deployment teams in London, with depot coverage delivering UK same-day and EU 2-day service across Benelux, DACH, France and Poland.
 - FlyWei serves customers across the United Kingdom, Continental Europe (Benelux, DACH, France) and the GCC (UAE, Saudi Arabia, Qatar, Kuwait).
